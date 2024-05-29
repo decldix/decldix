@@ -2,7 +2,7 @@
 
 decldix is the central package for the decldix idea aimed at people who like the values of debian and know the advantages of declarative system configuration.
 
-The name is an acronym **decl**arative **d**ebian n**ix** as these are the driving principles behind this project idea.
+The name is an acronym of **decl**arative **d**ebian n**ix** as these are the driving principles behind this project idea.
 
 It is geared towards users who want reproducable debian based setups - workstations or servers.
 To archieve this, decldix is based on opiniated principles and workflows:
